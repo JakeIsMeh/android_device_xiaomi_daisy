@@ -1,0 +1,2 @@
+# android_device_xiaomi_daisy_sprout
+vendor for daisy_sprout
