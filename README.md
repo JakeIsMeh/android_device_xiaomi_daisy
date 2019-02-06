@@ -1,4 +1,4 @@
-# Device Tree for Xiaomi Mi A2 Lite (tissot)
+# Device Tree for Xiaomi Mi A2 Lite (daisy)
 
 ## Spec Sheet
 
